@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Your React App</title>
+</head>
+<body>
+  <div id="root"></div>
+  <script>
+    // Fetch and display the manifest
+    fetch('/devpn.txt')
+      .then(response => response.json())
+      .then(manifest => {
+        const manifestElement = document.createElement('pre');
+        manifestElement.textContent = JSON.stringify(manifest, null, 2);
+        document.body.appendChild(manifestElement);
+      })
+      .catch(error => console.error('Error fetching manifest:', error));
+  </script>
+</body>
+</html>
