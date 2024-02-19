@@ -1,5 +1,5 @@
 {
-"url": "https://t.me/delabtonbot/esim",
+"url": "https://t.me/desimtonbot/start",
 "name": "DeSim",
 "iconUrl": "https://avatars.githubusercontent.com/u/116884789?s=200&v=4"
 }
