@@ -1,0 +1,5 @@
+{
+"url": "https://dex-aggregator.pages.dev/",
+"name": "DeSwap",
+"iconUrl": "https://delab-team.ams3.cdn.digitaloceanspaces.com/icons/DeLabLogo.png"
+}
