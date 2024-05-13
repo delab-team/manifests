@@ -39,5 +39,16 @@
       })
       .catch(error => console.error('Error fetching manifest:', error));
   </script>
+  <script>
+    // Fetch and display the manifest
+    fetch('/deswap.txt')
+      .then(response => response.json())
+      .then(manifest => {
+        const manifestElement = document.createElement('pre');
+        manifestElement.textContent = JSON.stringify(manifest, null, 2);
+        document.body.appendChild(manifestElement);
+      })
+      .catch(error => console.error('Error fetching manifest:', error));
+  </script>
 </body>
 </html>
