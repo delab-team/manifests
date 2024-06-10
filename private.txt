@@ -1,5 +1,5 @@
 {
 "url": "t.me/privateton_bot/start",
 "name": "Private",
-"iconUrl": "https://delab-team.ams3.cdn.digitaloceanspaces.com/private/private-icon2.png"
+"iconUrl": "https://de-cdn.delab.team/private/private-icon2.png"
 }

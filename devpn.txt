@@ -1,5 +1,5 @@
 {
 "url": "t.me/delabtonbot/vpn",
 "name": "DeVPN",
-"iconUrl": "https://delab-team.ams3.cdn.digitaloceanspaces.com/icons/DeLabLogo.png"
+"iconUrl": "https://de-cdn.delab.team/icons/DeLabLogo.png"
 }
