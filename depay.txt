@@ -1,0 +1,5 @@
+{
+"url": "",
+"name": "DePay",
+"iconUrl": "https://de-cdn.delab.team/icons/DeLabLogo.png"
+}
