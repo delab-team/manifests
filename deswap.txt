@@ -1,5 +1,5 @@
 {
 "url": "https://swap.delab.team/",
 "name": "DeSwap",
-"iconUrl": "https://de-cdn.delab.team/icons/DeLabLogo.png"
+"iconUrl": "https://raw.githubusercontent.com/delab-team/manifests-images/main/DeLabLogo.png"
 }

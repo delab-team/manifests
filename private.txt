@@ -1,5 +1,5 @@
 {
 "url": "t.me/privateton_bot/start",
 "name": "Private",
-"iconUrl": "https://de-cdn.delab.team/private/private-icon2.png"
+"iconUrl": "https://raw.githubusercontent.com/delab-team/manifests-images/main/private-icon2.png"
 }
